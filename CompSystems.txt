@@ -1,0 +1,8 @@
+CREATED THIS FILE TO TRACK MY PROGRESS OF COMPUTER SYSTEMS CS1104 ON GITHUB.
+
+I started reading Boolean Logic (Nisan and Schocken);
+   Developing that familiar feeling of curious intrigue.
+
+NANDgates++
+Developers routinely define abstractions (Interfaces) and implement them,
+or get other people to implement them.
