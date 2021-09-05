@@ -6,3 +6,6 @@ I started reading Boolean Logic (Nisan and Schocken);
 NANDgates++
 Developers routinely define abstractions (Interfaces) and implement them,
 or get other people to implement them.
+
+Discussion post posted in the morning. Day was spent studying Pychology and that Discussion Post has also been posted.
+ 
