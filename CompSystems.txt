@@ -13,4 +13,10 @@ Discussion post posted in the morning. Day was spent studying Psychology and tha
 
 Unit 2:
 
- 
+Half Adder:
+Sum = XOR[A, B]; Carry = AND[A, B];  (A&&B ? Carry : A||B ? Sum); 
+
+Full Adder:
+Sum = XOR[XOR[A, B], Carry in]; Carry out = OR[AND[XOR[A, B], Carry in], AND[A, B];
+
+1 bit is a Full Adder circuit - 4 bits are 4 interlinked Full Adder circuits.
