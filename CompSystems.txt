@@ -20,3 +20,12 @@ Full Adder:
 Sum = XOR[XOR[A, B], Carry in]; Carry out = OR[AND[XOR[A, B], Carry in], AND[A, B];
 
 1 bit is a Full Adder circuit - 4 bits are 4 interlinked Full Adder circuits.
+
+
+3 Binary Representations:
+        unsigned binary    = MSB is part of the number
+        signed magnitude   = MSB is negative sign
+        2's complement     = MSB is negative value
+
+unsigned int = unsigned binary representation
+int = 2's complement || signed magnitude representation
