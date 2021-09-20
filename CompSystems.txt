@@ -29,3 +29,6 @@ Sum = XOR[XOR[A, B], Carry in]; Carry out = OR[AND[XOR[A, B], Carry in], AND[A, 
 
 unsigned int = unsigned binary representation
 int = 2's complement || signed magnitude representation
+
+Discussion post about arithmetic, adding and subtracting, creating overflow errors
+Focus is on the ALU design.
