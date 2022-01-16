@@ -1,0 +1,2 @@
+new file with new text added by CLI.zsh/nano on git branch NewBranch
+
