@@ -7,8 +7,8 @@ Edit on GitHub for pull testing
 Successfully pulled, but was hoping for a way of checking if updates had
 been made remotely (checked with git status but it stated that nothing
 had changed
-Editing file using Vim (first time, lerrning)
-- all commands seem to take affect on all chars/words/lines preceding the cursor
+Editing file using Vim (first time, learning)
+- all commands seem to take affect on all chars/words/lines immediately after the cursor
 - used 'yy' to 'yank' line above and 'p' to paste below,
 - then deleted 1 char at a time with 'dl' and discovered 'dd' to delete whole line
 - 'i' to insert text, 'cw' to change a word
