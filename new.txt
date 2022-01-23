@@ -1,2 +1,4 @@
 new file with new text added by CLI.zsh/nano on git branch NewBranch
 
+This text added using vim, instead of nano.
+I <3 vim
